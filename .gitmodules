@@ -1,0 +1,6 @@
+[submodule "IOT-API"]
+	path = IOT-API
+	url = https://github.com/pantherinblack/IOT-API.git
+[submodule "IOT-Frontend"]
+	path = IOT-Frontend
+	url = https://github.com/pantherinblack/IOT-Frontend.git
