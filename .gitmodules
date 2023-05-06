@@ -1,0 +1,12 @@
+[submodule "IOT-API"]
+	path = IOT-API
+	url = https://github.com/pantherinblack/IOT-API.git
+[submodule "IOT-Frontend"]
+	path = IOT-Frontend
+	url = https://github.com/pantherinblack/IOT-Frontend.git
+[submodule "TTN-Data-Connector"]
+	path = TTN-Data-Connector
+	url = https://github.com/itguy19/TTN-Data-Connector.git
+[submodule "Arduino_UNO_with_Dragino_LoRa_Shield_1.4v"]
+	path = Arduino_UNO_with_Dragino_LoRa_Shield_1.4v
+	url = https://github.com/itguy19/Arduino_UNO_with_Dragino_LoRa_Shield_1.4v.git
